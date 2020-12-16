@@ -4,7 +4,7 @@
 <br/>
 git reset --hard HEAD~1
 <br/>
-<b></b>
+
 <b> Este comando hace posible deshacer el ultimo commit y tambien el cambio realizado en working copy </b>
 <br/>
 <b> - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué? </b>
